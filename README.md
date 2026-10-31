@@ -64,7 +64,7 @@ Note: the test sets are about 75% attack because of how normal frames were sampl
 
 ## Use of AI
 
-I used Claude to help structure the pipeline, suggest the file-wise evaluation, and restructure the code. I chose the AWID3 data and feature set, ran and debugged the code in VS Code, and wrote comments based on my understanding. I can explain each step, including why subtype and the protected flag are excluded and why the split is by file.
+I used Claude to assist with writing and restructuring the code, suggesting improvements and explaining parts of the implementation. I selected the AWID3 dataset and features, reviewed the generated code, ran and debugged it in VS Code, and added comments based on my understanding. I can explain the code and the decisions made, including the choice of features and file-wise testing.
 
 
 ## Author
